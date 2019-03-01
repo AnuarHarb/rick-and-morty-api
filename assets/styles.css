@@ -1,0 +1,14 @@
+.card {
+  display: inline-block;
+  box-shadow: 1px 1px 2px -1px black;
+  margin: 20px 10px;
+}
+
+.species-human {
+  background-color: black;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
